@@ -1,0 +1,17 @@
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/bin/Debug/net8.0/Application.deps.json
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/bin/Debug/net8.0/Application.runtimeconfig.json
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/bin/Debug/net8.0/Application.dll
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/bin/Debug/net8.0/Application.pdb
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/bin/Debug/net8.0/Domain.dll
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/bin/Debug/net8.0/Domain.pdb
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.csproj.CopyComplete
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.dll
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/refint/Application.dll
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.pdb
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/Application.genruntimeconfig.cache
+/home/kiplangat/Documents/run_devops/Restaurants/Restaurants.Application/obj/Debug/net8.0/ref/Application.dll
